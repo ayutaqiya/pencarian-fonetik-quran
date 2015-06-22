@@ -1,0 +1,1 @@
+Sistem pencarian fonetik untuk Al-Quran, sebuah topik penelitian tugas akhir (skripsi). Selengkapnya silakan lihat di http://abrari.wordpress.com/category/skripsi/.
